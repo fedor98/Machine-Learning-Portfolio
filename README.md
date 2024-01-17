@@ -15,3 +15,10 @@ You are looking at some sort of lil representation of my current progress in the
 - Image classification of 2 classes
 - Tags (Tensorflow, transfer learning)
 <img width="500" alt="cats_vs_dogs" src="https://github.com/fedor98/Machine-Learning-Portfolio/assets/136340206/e5026c9f-f63b-4ef9-94bc-37ab8fc436c5">
+
+---
+
+### Comparison of Activation Function carried out on MNIST [[Link to the .ipynb file](Projects/mnist/mnist_prediction_of_numbers.ipynb)]
+- Image classification of 2 classes
+- Tags (Tensorflow, relu, swish, mish, selu, gelu)
+<img width="500" alt="mnist" src=https://github.com/fedor98/Machine-Learning-Portfolio/assets/136340206/f9ee6e22-f0e1-4255-9acf-96fb83b0becc)>
