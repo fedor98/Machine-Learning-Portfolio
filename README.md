@@ -4,13 +4,13 @@ You are looking at some sort of lil representation of my current progress in the
 
 ---
 ## Projects:
-### Breast Cancer  [Link to the .ipynb file]
+### Breast Cancer [[Link to the .ipynb file](Projects/breast_histopathology/breast_histopathology_shortened.ipynb)]
 - classification of cancerous vs. non-cancerous images 
 - Tags (Tensorflow, oversampling, transfer learning, unfreezing the base model)
-
+<img width="500" alt="breast_histopathology" src="https://github.com/fedor98/Machine-Learning-Portfolio/assets/136340206/24737a39-9795-4ab1-99f9-edc084092089">
 
 ---
-### CIFAR 100 [Link to the .ipynb file]
+### CIFAR 100 [[Link to the .ipynb file](Projects/Cifar100/cifar100_shortened.ipynb)]
 - Image classification of 100 classes
 - Tags (Tensorflow, data augmentation)
 <img width="500" alt="cifar100" src="https://github.com/fedor98/Machine-Learning-Portfolio/assets/136340206/6e5230c7-bdef-4f96-873e-141125e743a9">
