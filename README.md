@@ -1,10 +1,16 @@
 Hey there,
 
-You are looking at some sort of lil representation of my current progress in the field of machine learning. I'm just at the beginning of my journey, so this is more of a work in progress than something final. Feel free to take a tour around here.
+You are looking at some sort of lil representation of my current progress in the field of machine learning. When I'm done whith certein part or find time to fully train the model (as it seems my machine isn't quite suitable for the high computational task) I usually try to upload the results at some form. I'm just at the beginning of my journey, so this is more of a work in progress than something final. Feel free to take a look.
 
 ---
 ## Projects:
-### CIFAR 100 [[Link to the .ipynb file](https://github.com/fedor98/Machine-Learning-Portfolio/blob/main/Projects/Cifar100/cifar100_shortened.ipynb)]
+### Breast Cancer  [Link to the .ipynb file]
+- classification of cancerous vs. non-cancerous images 
+- Tags (Tensorflow, oversampling, transfer learning, unfreezing the base model)
+
+
+---
+### CIFAR 100 [Link to the .ipynb file]
 - Image classification of 100 classes
 - Tags (Tensorflow, data augmentation)
 <img width="500" alt="cifar100" src="https://github.com/fedor98/Machine-Learning-Portfolio/assets/136340206/6e5230c7-bdef-4f96-873e-141125e743a9">
