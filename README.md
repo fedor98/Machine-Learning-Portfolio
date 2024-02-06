@@ -4,7 +4,7 @@ You are looking at some sort of lil representation of my current progress in the
 
 ---
 ## Projects:
-### License Plate Tracker [[Link to the .ipynb file](Projects/breast_histopathology/breast_histopathology_shortened.ipynb)]
+### License Plate Tracker [[Link to the .ipynb file](Projects/license_plate_detector/license_plate.ipynb)]
 - classification of cancerous vs. non-cancerous images 
 - Tags (YOLOv8, fine-tuning of the coco-model, ocr of license plates)
 - *the following gives a good baseline licence plate tracking model, but it needs some improvemetnt:*
