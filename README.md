@@ -4,6 +4,13 @@ You are looking at some sort of lil representation of my current progress in the
 
 ---
 ## Projects:
+### License Plate Tracker [[Link to the .ipynb file](Projects/breast_histopathology/breast_histopathology_shortened.ipynb)]
+- classification of cancerous vs. non-cancerous images 
+- Tags (YOLOv8, fine-tuning of the coco-model, ocr of license plates)
+![license_plate_tracking_new](https://github.com/fedor98/Machine-Learning-Portfolio/assets/136340206/94002c8a-8288-4828-af57-802322c951fc)
+
+
+---
 ### Breast Cancer [[Link to the .ipynb file](Projects/breast_histopathology/breast_histopathology_shortened.ipynb)]
 - classification of cancerous vs. non-cancerous images 
 - Tags (Tensorflow, oversampling, transfer learning, unfreezing the base model)
