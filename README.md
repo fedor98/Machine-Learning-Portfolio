@@ -6,10 +6,10 @@ You are looking at some sort of lil representation of my current progress in the
 ## Projects:
 ### License Plate Tracker [[Link to the .ipynb file](Projects/license_plate_detector/license_plate.ipynb)]
 - classification of cancerous vs. non-cancerous images 
-- Tags (YOLOv8, fine-tuning of the coco-model, ocr of license plates)
+- Tags (OpenCV, YOLOv8, fine-tuning of the coco-model, ocr of license plates)
 - *the following gives a good baseline licence plate tracking model, but it needs some improvemetnt:*
   - *transfer learning on a larger license plate dataset for better object detection*
-  - *using a custom OCR model which was trained on regional license plates as `easyocr` struggles with the continuous classification of characters in this sample footage*
+  - *using a custom OCR model which was trained on regional license plates as easyocr struggles with the continuous classification of characters in this sample footage*
 <img width="500" alt="license_plate_tracking" src="https://github.com/fedor98/Machine-Learning-Portfolio/assets/136340206/06b7bc5f-6f27-478c-b8c6-dd0bb42cc63c">
 
 ---
