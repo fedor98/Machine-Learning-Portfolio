@@ -13,7 +13,7 @@ You are looking at some sort of lil representation of my current progress in the
 <img width="500" alt="license_plate_tracking" src="https://github.com/fedor98/Machine-Learning-Portfolio/assets/136340206/06b7bc5f-6f27-478c-b8c6-dd0bb42cc63c">
 
 ---
-### Google & Apple stock prediction [[Link to the .ipynb file](Projects/stock_prediction/stock_prediction_9days.ipynb)]
+### Google & Apple stock prediction [[Link to the .ipynb file](Projects/stock_prediction/stock_prediction_9days_shortened.ipynb)]
 - prediction of the future stock development based on the previous closing prizes 
 - Tags (Tensorflow, RNN)
 <img width="500" alt="stock_prediction_9days" src="https://github.com/fedor98/Machine-Learning-Portfolio/assets/136340206/d8b655a8-3585-4d4b-9735-e14e41b03604">
