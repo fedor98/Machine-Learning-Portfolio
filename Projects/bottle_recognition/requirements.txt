@@ -1,0 +1,5 @@
+pyqt5==5.15.10 
+watchdog==4.0.1
+pyfiglet==1.0.2
+supervision==0.22.0
+qreader==3.14
